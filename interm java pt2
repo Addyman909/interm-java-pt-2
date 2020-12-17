@@ -1,0 +1,12 @@
+
+<script>
+var number =1;
+var su,=0
+while (count<= 1000) {
+sum=sum+count
+count=count +1;
+  
+}
+
+document.write (sum);
+</script>
